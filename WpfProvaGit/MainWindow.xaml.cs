@@ -20,5 +20,10 @@ namespace WpfProvaGit
         {
             InitializeComponent();
         }
+
+        private void btn_aggiungi_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
