@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfProvaGit", "WpfProvaGit\WpfProvaGit.csproj", "{BE7884C1-297A-4EE8-B9E8-441D0DE901A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7884C1-297A-4EE8-B9E8-441D0DE901A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7884C1-297A-4EE8-B9E8-441D0DE901A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7884C1-297A-4EE8-B9E8-441D0DE901A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7884C1-297A-4EE8-B9E8-441D0DE901A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83C17C5-94AA-468D-9B22-E078EFDA5505}
+	EndGlobalSection
+EndGlobal
