@@ -16,6 +16,9 @@ namespace WpfProvaGit
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        // Aggiunta commento da github
+    
         public MainWindow()
         {
             InitializeComponent();
