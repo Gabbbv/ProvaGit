@@ -15,14 +15,14 @@ namespace WpfProvaGit
         private int golSq2;
         private List<string> marcatori;
 
-        public Partita(string squadraCasa, string squadraTrasferta, int anno, int golSq1, int golSq2, List<string> marcatori)
+        public Partita(string squadraCasa, string squadraTrasferta, int anno, int golSq1, int golSq2)
         {
             this.squadraCasa = squadraCasa;
             this.squadraTrasferta = squadraTrasferta;
             this.anno = anno;
             this.golSq1 = golSq1;
             this.golSq2 = golSq2;
-            this.marcatori = marcatori;
+            this.marcatori = new List<string>;
         }
 
         public string SquadraCasa { get => squadraCasa; set => squadraCasa = value; }
