@@ -21,9 +21,11 @@ namespace WpfProvaGit
             InitializeComponent();
         }
 
+        private Libro libro = new Libro("zanichelli", "calcio", 50);
+
         private void btn_aggiungi_Click(object sender, RoutedEventArgs e)
         {
-
+            return;
         }
     }
 }
